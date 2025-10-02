@@ -170,8 +170,8 @@ The market is only accessible **between raids** (not during active gameplay).
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd extraction-shooter
+git clone git@github.com:bryantclark/alrightyyyyyyyyyy.git
+cd alrightyyyyyyyyyy
 
 # Install dependencies
 npm install
